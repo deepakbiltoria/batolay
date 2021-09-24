@@ -1,5 +1,6 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:batolay/components/rounded_button.dart';
+import 'package:batolay/screens/chat_screen.dart';
 import 'package:batolay/screens/login_screen.dart';
 import 'package:batolay/screens/registration_screen.dart';
 import 'package:flutter/material.dart';
